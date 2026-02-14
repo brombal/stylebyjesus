@@ -159,7 +159,7 @@ button { background: none; border: none; cursor: pointer; color: inherit; font: 
   z-index: 2;
   text-align: center;
   padding: 120px 120px;
-  background: radial-gradient(ellipse 50% 50% at center, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.3) 40%, transparent 70%);
+  background: radial-gradient(ellipse 50% 50% at center, rgba(0, 0, 0, 0.6) 0%,  transparent 100%);
   animation: heroFadeIn 1.2s var(--ease-out-expo) both;
   animation-delay: 0.3s;
 }
